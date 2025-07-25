@@ -1,4 +1,6 @@
-2. Install Requirements
+After cloning the repo
+
+Install Requirements
 ```bash
 pip install flask flask_sqlalchemy
 ```
